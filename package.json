@@ -1,0 +1,12 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "This is mini youtube project",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Prachi Thakare",
+  "license": "ISC"
+}
